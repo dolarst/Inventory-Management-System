@@ -1,0 +1,18 @@
+c:\users\mosaddik\documents\visual studio 2013\Projects\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+c:\users\mosaddik\documents\visual studio 2013\Projects\InventoryApp\InventoryApp\bin\InventoryApp.dll
+c:\users\mosaddik\documents\visual studio 2013\Projects\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+c:\users\mosaddik\documents\visual studio 2013\Projects\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+c:\users\mosaddik\documents\visual studio 2013\Projects\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+c:\users\mosaddik\documents\visual studio 2013\Projects\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Sharma\Desktop\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+C:\Users\Sharma\Desktop\InventoryApp\InventoryApp\bin\InventoryApp.dll
+C:\Users\Sharma\Desktop\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+C:\Users\Sharma\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Sharma\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+C:\Users\Sharma\Desktop\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+E:\BDjobs Class\Layer Architecture\InventoryApp\InventoryApp\bin\InventoryApp.dll.config
+E:\BDjobs Class\Layer Architecture\InventoryApp\InventoryApp\bin\InventoryApp.dll
+E:\BDjobs Class\Layer Architecture\InventoryApp\InventoryApp\bin\InventoryApp.pdb
+E:\BDjobs Class\Layer Architecture\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+E:\BDjobs Class\Layer Architecture\InventoryApp\InventoryApp\obj\Debug\InventoryApp.dll
+E:\BDjobs Class\Layer Architecture\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
